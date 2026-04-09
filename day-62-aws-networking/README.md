@@ -102,6 +102,14 @@ Destroy:
 terraform destroy
 ```
 
+## Dependency Graph
+
+Command used:
+
+`terraform graph`
+
+This shows how Terraform understands resource dependencies.
+
 ## What I Learned
 
 From this lab I learned:
